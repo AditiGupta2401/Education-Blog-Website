@@ -1,1 +1,1 @@
-# Educatiin-Blog-Website
+# Education-Blog-Website
